@@ -1,0 +1,17 @@
+{
+    "name": "hgati/module-pagenotfound-redirect",
+    "description": "Magento2 module to redirect 404 Not Found to Search Results Page",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+        "MIT"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Hgati\\PagenotfoundRedirect\\": ""
+        }
+    }
+}
