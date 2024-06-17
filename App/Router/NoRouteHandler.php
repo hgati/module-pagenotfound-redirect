@@ -1,5 +1,5 @@
 <?php
-namespace Cobay\Custom\App\Router;
+namespace Hgati\PagenotfoundRedirect\App\Router;
 
 class NoRouteHandler implements \Magento\Framework\App\Router\NoRouteHandlerInterface
 {
